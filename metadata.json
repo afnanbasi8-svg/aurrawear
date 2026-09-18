@@ -1,0 +1,7 @@
+{
+  "name": "AURA WEAR Mens Boutique",
+  "description": "A premium, modern luxury men's fashion boutique website featuring bespoke suits, master tailoring, fine accessories, and smart casual collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
